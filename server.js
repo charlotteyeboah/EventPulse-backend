@@ -1,3 +1,8 @@
+// EventPulse Backend API
+// Built with Node.js, Express and MongoDB
+// Authentication: JWT
+// Database: MongoDB Atlas
+
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
